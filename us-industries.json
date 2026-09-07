@@ -1,14 +1,14 @@
 {
   "date": "2026-09-04",
-  "updatedAt": "2026-09-04T23:32:22.387Z",
+  "updatedAt": "2026-09-07T23:50:41.407Z",
   "source": "S&P 500 constituents (GICS) + 腾讯行情",
   "method": "equal-weight",
   "universe": "S&P 500",
   "minConstituents": 3,
   "stats": {
     "stocks": 501,
-    "industries": 53,
-    "droppedThin": 16
+    "industries": 54,
+    "droppedThin": 15
   },
   "sectors": [
     {
@@ -18,8 +18,8 @@
     },
     {
       "sec": "工业",
-      "n": 11,
-      "chg": 0.31
+      "n": 12,
+      "chg": 0.4
     },
     {
       "sec": "金融",
@@ -118,9 +118,15 @@
     },
     {
       "sec": "工业",
+      "ind": "贸易公司与经销商",
+      "n": 3,
+      "chg": 1.56
+    },
+    {
+      "sec": "工业",
       "ind": "建筑产品",
-      "n": 9,
-      "chg": 1.39
+      "n": 8,
+      "chg": 1.28
     },
     {
       "sec": "工业",
