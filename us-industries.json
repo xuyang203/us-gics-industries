@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-26T03:50:27.904Z",
+  "updatedAt": "2026-11-27T03:52:08.729Z",
   "source": "S&P 500 constituents (GICS) + 腾讯行情",
   "method": "equal-weight",
   "universe": "S&P 500",
